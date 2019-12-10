@@ -1,2 +1,2 @@
 # Rock Paper Scissors
-See http://камень-ножницы-бумага.рф
+See http://камень-ножницы-бумага.рус
